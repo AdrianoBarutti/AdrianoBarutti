@@ -10,7 +10,7 @@
 
 ###
 
-<p align="leaft">Meu nome é Adriano Barutti Pessuto, tenho 19 anos e sou natural de São Paulo (SP). Concluí o Ensino Médio Técnico em Informática no Senac, onde desenvolvi uma base sólida em áreas como programação, redes, hardware e sistemas operacionais. Atualmente, curso Análise e Desenvolvimento de Sistemas na FIAP.<br>Sou apaixonado por tecnologia em geral, tanto na parte de desenvolvimento web quanto em áreas mais práticas, como o conserto e manutenção de computadores e periféricos. Gosto de entender como as coisas funcionam por dentro e estou sempre em busca de novos conhecimentos que ampliem minha visão sobre o universo da tecnologia.</p>
+<p align="leaft">Meu nome é Adriano Barutti Pessuto, tenho 20 anos e sou natural de São Paulo (SP). Concluí o Ensino Médio Técnico em Informática no Senac, onde desenvolvi uma base sólida em áreas como programação, redes, hardware e sistemas operacionais. Atualmente, curso Análise e Desenvolvimento de Sistemas na FIAP.<br>Sou apaixonado por tecnologia em geral, tanto na parte de desenvolvimento web quanto em áreas mais práticas, como o conserto e manutenção de computadores e periféricos. Gosto de entender como as coisas funcionam por dentro e estou sempre em busca de novos conhecimentos que ampliem minha visão sobre o universo da tecnologia.</p>
 
 ###
 
