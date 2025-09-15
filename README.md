@@ -1,45 +1,35 @@
-<br clear="both">
+# CP2 - Redes Neurais com Keras (Google Colab)
 
-<h1 align="left">💻 Adriano Barutti</h1>
+Este repositório contém a solução do Checkpoint 2 da disciplina **Disruptive Architectures: IoT, IoB e Generative AI**.
 
-**`Desenvolvedor Front-end`**
+## Como abrir no Google Colab
 
-###
+1. Faça upload do arquivo `CP2_Checkpoint.ipynb` no seu Google Drive.
+2. Clique com o botão direito sobre o notebook e selecione **Abrir com > Google Colaboratory**.
+3. Execute célula por célula para reproduzir os resultados.
 
-<img align="right" height="150" src="https://media.tenor.com/y6ko93COrOQAAAAj/reshiram-pokemon-reshiram.gif"  />
+## Estrutura do Notebook
 
-###
+O notebook único contém:
 
-<p align="leaft">Meu nome é Adriano Barutti Pessuto, tenho 20 anos. Concluí o Ensino Médio Técnico em Informática no Senac, onde desenvolvi uma base sólida em áreas como programação, redes, hardware e sistemas operacionais. Atualmente, curso Análise e Desenvolvimento de Sistemas na FIAP.<br>Sou apaixonado por tecnologia em geral, tanto na parte de desenvolvimento web quanto em áreas mais práticas, como o conserto e manutenção de computadores e periféricos. Gosto de entender como as coisas funcionam por dentro e estou sempre em busca de novos conhecimentos que ampliem minha visão sobre o universo da tecnologia.</p>
+- **Exercício 1 – Classificação Multiclasse (Wine Dataset - UCI)**  
+  Rede neural em Keras com 2 camadas ocultas, comparada a modelos do scikit-learn (Logistic Regression e Random Forest).
 
-###
+- **Exercício 2 – Regressão (California Housing Dataset)**  
+  Rede neural em Keras com 3 camadas ocultas, comparada a modelos do scikit-learn (Linear Regression e Random Forest Regressor).
 
-<br clear="both">
+- **Conclusão** com análise dos resultados.
 
-<h2 align="center">🤖Linguagens e Tecnologias</h2>
+## Resultados Esperados
 
-###
+### Exercício 1 – Classificação
+- Rede Neural Keras: Acurácia ~ **0.95 - 0.99**
+- LogisticRegression: Acurácia ~ **0.95 - 0.98**
+- RandomForest: Acurácia ~ **0.98 - 1.0**
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-</div>
+### Exercício 2 – Regressão
+- Rede Neural Keras: RMSE ~ **0.6 - 0.7**
+- LinearRegression: RMSE ~ **0.7 - 0.75**
+- RandomForest: RMSE ~ **0.45 - 0.55**
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://media.tenor.com/EAAxkwW71WcAAAAj/pokemon-pokemon-black-and-white.gif"  />
-</div>
-
-###
+⚠️ Os valores podem variar devido à aleatoriedade do treinamento.
