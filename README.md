@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/y6ko93COrOQAAAAj/reshiram-pokemon-reshiram.gif"  />
+
 
 ###
 
@@ -38,8 +38,5 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="https://media.tenor.com/EAAxkwW71WcAAAAj/pokemon-pokemon-black-and-white.gif"  />
-</div>
 
 ###
