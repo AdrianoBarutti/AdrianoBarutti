@@ -2,7 +2,7 @@
 
 <h1 align="left">💻 Adriano Barutti</h1>
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Front-end~júnior`**
 
 ###
 
