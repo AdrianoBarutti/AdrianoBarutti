@@ -1,44 +1,50 @@
-<br clear="both">
-
-<h1 align="left">💻 Adriano Barutti</h1>
-
-**`Desenvolvedor Front-end~júnior`**
-
-###
-
-
-
-###
-
-<p align="leaft">Meu nome é Adriano Barutti Pessuto, tenho 20 anos. Concluí o Ensino Médio Técnico em Informática no Senac, onde desenvolvi uma base sólida em áreas como programação, redes, hardware e sistemas operacionais. Atualmente, curso Análise e Desenvolvimento de Sistemas na FIAP.<br>Sou apaixonado por tecnologia em geral, tanto na parte de desenvolvimento web quanto em áreas mais práticas, como o conserto e manutenção de computadores e periféricos. Gosto de entender como as coisas funcionam por dentro e estou sempre em busca de novos conhecimentos que ampliem minha visão sobre o universo da tecnologia.</p>
-
-###
-
-<br clear="both">
-
-<h2 align="center">🤖Linguagens e Tecnologias</h2>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Adriano+Barutti+%F0%9F%91%8B;Desenvolvedor+Front-end;Formado+em+ADS+pela+FIAP" alt="Typing SVG" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 👨‍💻 Sobre mim
+
+Sou **Adriano Barutti Pessuto**, tenho 20 anos e sou apaixonado por tecnologia! 🚀
+
+- 🎓 Concluí o **Ensino Médio Técnico em Informática** no **Senac**, com base sólida em programação, redes, hardware e sistemas operacionais.
+- - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela **FIAP**.
+  - - 💡 Curioso por natureza — gosto de entender como as coisas funcionam por dentro.
+    - - 📈 Sempre em busca de novos conhecimentos para expandir minha visão sobre o universo da tecnologia.
+     
+      - ---
+
+      ## 🛠️ Linguagens e Tecnologias
+
+      <div align="center">
+
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+      &nbsp;
+      <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" title="Git" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure" />
+
+      </div>
 
 
-###
+      ---
+
+      ## 📫 Contato
+
+      <div align="center">
+
+      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adriano-barutti)
+      [![Hotmail](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:adrianopessuto@hotmail.com)
+
+      </div>
